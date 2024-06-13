@@ -1,0 +1,11 @@
+pandas
+numpy
+pathlib
+matplotlib
+sklearn
+sklearn-pandas
+Pillow
+torch
+torchtext
+torchvision
+transformers
